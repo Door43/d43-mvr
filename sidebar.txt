@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mvr:home|Door43 (mvr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mvr|d43-mvr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mvr/archive/master.zip|d43-mvr.zip]]
+
+**Recent Changes**
+{{changes>ns = mvr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mvr|Ethnologue data]]
+
